@@ -40,7 +40,15 @@
     
     ![GitHub Logo](/images/SS3.png)
     
-    4. 
+    4. Additionally, if you choose a higher quantity of an item than what is in stock, you will receive an error message prompting you to choose another item.
     
-        
-
+    ![GitHub Logo](/images/SS4.png)
+    
+    5. Where you will then be redirected to the closing prompt of the app
+    
+    ![GitHub Logo](/images/SS5.png)
+    
+    * The app will automatically end once you have inputted that you are finished shopping as per the last prompt
+    
+    
+    ** (Disclosure: Though I was able to connect to my database, I was not able to have the database update the stock_inventory. I simply ran out of time on troubleshooting that, overall the app is working as a CLI)
