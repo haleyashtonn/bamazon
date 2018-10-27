@@ -24,13 +24,23 @@
     
     ## Walkthrough of Usage
     
-    1) Once everything has been properly loaded, we can launch the app in the terminal by inputting:
+    1. Once everything has been properly loaded, we can launch the app in the terminal by inputting:
     
         ' node bamazonCustomer.js'
     
-    2) A short welcome statement will appear upon loading:
+    2. A short welcome statement will appear upon loading:
     
     ![GitHub Logo](/images/SS1.png)
-    Format: ![SS1]
+    
+    * After inputting "y" to launch the app, the inventory will appear
+    
+    ![GitHub Logo](/images/SS2.png)
+    
+    3. You may now choose which items you'd like to order by inputting the unique user ID associated with each item into the command line
+    
+    ![GitHub Logo](/images/SS3.png)
+    
+    4. 
+    
         
 
