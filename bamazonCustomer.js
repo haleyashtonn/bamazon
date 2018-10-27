@@ -2,7 +2,7 @@ let inquirer = require("inquirer");
 let mysql = require("mysql");
 
 
-//creates connection to MySQL database (bamazon_db)
+//creates connection to MySQL database (bamazon_db)using unique credentials
 var connection = mysql.createConnection
 ({
    host: "localhost",
