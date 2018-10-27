@@ -121,6 +121,8 @@ function allProducts() {
 	});
 }
 // after completed order, prompts to reorder (y) or exit (n)
+
+// buggy, exits after inputting 'y' to reorder
 function reorder() {
 	inquirer.prompt([
 		{
